@@ -1,1 +1,0 @@
-La visión artificial ayuda a que las computadoras y robots interpreten imágenes o videos. Es como darles ojos digitales para que puedan **identificar objetos, movimientos o situaciones** sin que una persona tenga que mirar.
