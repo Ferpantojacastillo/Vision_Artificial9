@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2835389ce306e1c4",
+        "id": "e09e4eac1418946b",
         "type": "tabs",
         "children": [
           {
-            "id": "120d1ccf1f9c1a5a",
+            "id": "840cab1c034a2d3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VisionArtificial/Temario.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Temario"
-            }
-          },
-          {
-            "id": "0222d45f45a7d92d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividades U1/Actividad 1.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Actividad 1.1"
-            }
-          },
-          {
-            "id": "da45b9d05866e16d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VisionArtificial/Actividades U1/Actividad 1.2 Aplicaciones de la vision artificial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Actividad 1.2 Aplicaciones de la vision artificial"
-            }
-          },
-          {
-            "id": "56f66c107db7460b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VisionArtificial/Actividades U1/Tarea1.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tarea1.1"
-            }
-          },
-          {
-            "id": "4894421a4eefb976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VisionArtificial/Actividad U1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Actividad U1"
-            }
-          },
-          {
-            "id": "0c1161ee0bfac508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VisionArtificial/Actividades U2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Actividades U2"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4241e7e27e2ccd62",
@@ -256,14 +181,21 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
   "active": "3f2c35eabe9beb3a",
   "lastOpenFiles": [
-    "VisionArtificial/Unidad 2/Actividad 2.1.md",
+    "VisionArtificial/Actividades U3.md",
+    "VisionArtificial/Actividad 3.1.md",
+    "Excalidraw/Drawing 2026-10-20 11.48.01.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-20 11.48.43.excalidraw.md",
     "VisionArtificial/Actividades U2.md",
+    "Excalidraw",
     "VisionArtificial/Actividad U1.md",
+    "VisionArtificial/Unidad3",
+    "VisionArtificial/Unidad 2/Actividad 2.1.md",
     "VisionArtificial/Actividades U1/Actividad 1.2 Aplicaciones de la vision artificial.md",
     "VisionArtificial/Actividades U1/Actividad 1.1.md",
     "VisionArtificial/Actividades U1/Tarea1.1.md",
