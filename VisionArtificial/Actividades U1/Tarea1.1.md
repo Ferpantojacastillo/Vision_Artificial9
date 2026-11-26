@@ -1,0 +1,1 @@
+Lo que yo espero aprender de esta unidad es analizar datos en imágenes, saber cuales son sus componentes, sus conceptos básicos esto para analizar todo tipo de imágenes y con esto obtener información de las imágenes.

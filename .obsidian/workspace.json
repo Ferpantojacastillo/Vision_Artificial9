@@ -11,10 +11,14 @@
             "id": "840cab1c034a2d3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "VisionArtificial/Actividades U3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Actividades U3"
             }
           }
         ]
@@ -185,7 +189,7 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "3f2c35eabe9beb3a",
+  "active": "840cab1c034a2d3f",
   "lastOpenFiles": [
     "VisionArtificial/Actividades U3.md",
     "VisionArtificial/Actividad 3.1.md",
